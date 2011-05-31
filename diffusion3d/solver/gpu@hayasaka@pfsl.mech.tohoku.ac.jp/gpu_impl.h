@@ -188,6 +188,8 @@ __device__ void gpu_impl_sub(Float const * __restrict__ f, Float * __restrict__ 
   //  __syncthreads();
 }
 
+//
+
 #if GPU_IMPL_CLASS == GPU_IMPL_CLASS_Y1 || \
     GPU_IMPL_CLASS == GPU_IMPL_CLASS_Y2 || \
     GPU_IMPL_CLASS == GPU_IMPL_CLASS_YN
@@ -208,6 +210,8 @@ __device__ void gpu_impl(Float const * __restrict__ f, Float * __restrict__ fn, 
   }
 }
 #endif
+
+//
 
 #if GPU_IMPL_CLASS == GPU_IMPL_CLASS_Y1Z || GPU_IMPL_CLASS == GPU_IMPL_CLASS_Y2Z
 template <typename Float, int num>
@@ -236,7 +240,7 @@ __device__ void gpu_impl_sub_repeat<FLOAT, 1>(FLOAT const * __restrict__ f, FLOA
 }
 
 #ifdef FLOAT
-// if FLOAT is defined, assume that is the type to be used in
+// if FLOAT is defined, assume that is the right type to be used in
 // gpu_impl<>() instanciation.
 SUB_REPEAT(FLOAT)
 #else
@@ -244,7 +248,6 @@ SUB_REPEAT(FLOAT)
 SUB_REPEAT(float)
 SUB_REPEAT(double)
 #endif
-
 
 // NOTE: assuming gridDim.x and gridDim.z are always 1
 // NOTE: in GPU_IMPL_Y1Z, assuming blockDim.y is always 1
@@ -273,6 +276,8 @@ __device__ void gpu_impl(Float const * __restrict__ f, Float * __restrict__ fn, 
   }
 }
 #endif
+
+//
 
 template <typename Float>
 __global__ void gpu_diffusion3d(Float *f, Float *fn, dim3 numNodesInGrid, Vec3<Float> c, Float cc)
