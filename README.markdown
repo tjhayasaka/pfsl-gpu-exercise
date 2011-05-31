@@ -16,7 +16,8 @@
   - 格子は 64^3、128^x、256^3 の三種類で、実行時にプログラムのオプショ
     ンで指定できる。
 
-CPU 計算の実装例と GPU 計算の雛形を github にて公開しています。
+CPU 計算の実装例と GPU 計算の雛形を github
+(https://github.com/tjhayasaka/pfsl-gpu-exercise) にて公開しています。
 
         $ git clone https://tjhayasaka@github.com/tjhayasaka/pfsl-gpu-exercise.git
 
@@ -111,7 +112,7 @@ Debian GNU/Linux (sid)、CUDA SDK 4.0、g++-4.4 でコンパイル、実行を�
 
 以下の理由により、gpu@ と cpu@ で計算結果に微妙な差がある。
 
-  - 中間表現形式の差 (nVidia の GPU より Intel の CPU の方が良い。単精
+  - 中間表現形式の差 (NVIDIA の GPU より Intel の CPU の方が良い。単精
     度の場合に顕著)
 
   - 境界条件適用のタイミングが違う (初回のイテレーションの結果が後まで
