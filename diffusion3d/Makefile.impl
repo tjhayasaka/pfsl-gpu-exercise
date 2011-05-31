@@ -1,0 +1,65 @@
+###
+###
+###
+
+### Do not write any implementation specific stuff in this file!!!
+
+FLOAT = float
+SOLVER_IMPL_NAME = cpu@gpu-exercise@example.org
+
+###
+###
+###
+
+SHELL = /bin/sh
+
+top_srcdir = .
+srcdir = $(top_srcdir)
+
+CUDA_PATH = /usr/local/cuda
+# CUDA_SDK_PATH = /Developer/GPU\ Computing/C
+CUDA_SDK_PATH = ${HOME}/NVIDIA_GPU_Computing_SDK/C
+# CUDA_SDK_PATH = ${HOME}/NVIDIA_CUDA_SDK/
+NVINCLUDES = -I${CUDA_SDK_PATH}/common/inc
+ifeq ($(M_ARCH), x86_64)
+NVLDFLAGS += -L${CUDA_PATH}/lib64
+else
+NVLDFLAGS += -L${CUDA_PATH}/lib
+endif
+NVLDFLAGS += -L${CUDA_SDK_PATH}/lib
+NVLDLIBS += -lcudart -lcutil
+# NVLDLIBS += -lstdc++
+# NVFLAGS += -arch sm_13
+NVFLAGS += -maxrregcount 32
+# NVFLAGS += -arch sm_13
+# NVFLAGS += -arch sm_11
+
+SOLVER_IMPL_DIR = solver/$(SOLVER_IMPL_NAME)
+SOLVER_REV_DIR = $(shell $(top_srcdir)/util/revdir $(SOLVER_IMPL_DIR))
+IMPL_BIN_NAME = $(FLOAT)@$(SOLVER_IMPL_NAME).exe
+IMPL_BIN = bin/$(IMPL_BIN_NAME)
+
+SUBMAKE_VARS = top_srcdir=$(SOLVER_REV_DIR)/$(top_srcdir) \
+	CUDA_PATH=$(CUDA_PATH) CUDA_SDK_PATH=$(CUDA_SDK_PATH) \
+	NVFLAGS="$(NVFLAGS)" NVINCLUDES="$(NVINCLUDES)" NVLDFLAGS="$(NVLDFLAGS)" NVLDLIBS="$(NVLDLIBS)" \
+	FLOAT=$(FLOAT) SOLVER_IMPL_NAME=$(SOLVER_IMPL_NAME)
+
+.PHONY: all
+all: $(IMPL_BIN)
+
+.PHONY: realclean
+realclean:
+	$(MAKE) -f Makefile realclean
+
+.PHONY: clean
+clean:
+	rm -f $(IMPL_BIN)
+	cd $(SOLVER_IMPL_DIR) && $(MAKE) -f Makefile.impl $(SUBMAKE_VARS) clean
+
+$(IMPL_BIN): $(SOLVER_IMPL_DIR)/a.out
+	[ -d bin ] || mkdir bin
+	cp -p $(SOLVER_IMPL_DIR)/a.out $(IMPL_BIN)
+
+.PHONY: $(SOLVER_IMPL_DIR)/a.out
+$(SOLVER_IMPL_DIR)/a.out:
+	cd $(SOLVER_IMPL_DIR) && $(MAKE) -f Makefile.impl $(SUBMAKE_VARS) a.out

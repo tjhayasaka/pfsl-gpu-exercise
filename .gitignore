@@ -1,0 +1,7 @@
+.nfs*
+*~
+*#
+tmp
+.stgit-edit.txt
+a.out
+*/bin/*@*@*

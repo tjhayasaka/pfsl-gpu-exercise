@@ -1,0 +1,55 @@
+###
+###
+###
+
+### Do not write any environment specific stuff in this file!!!
+
+FLOAT = float # may be overwritten by top level Makefile
+SOLVER_IMPL_NAME = $(shell basename $(shell pwd))
+
+top_srcdir = ../..
+srcdir = $(top_srcdir)/solver/$(SOLVER_IMPL_NAME)
+
+COMMON_SOURCES = $(top_srcdir)/main.cc $(top_srcdir)/IterationCounter.h $(top_srcdir)/Vec.h $(top_srcdir)/ArrayAccessor.h $(top_srcdir)/Solver.h
+COMMON_CXX_SOURCES = $(shell $(top_srcdir)/util/pick_cxx $(COMMON_SOURCES))
+COMMON_CU_SOURCES = $(shell $(top_srcdir)/util/pick_cu $(COMMON_SOURCES))
+
+# IMPL_SOURCES = $(srcdir)/MySolver.h
+IMPL_CXX_SOURCES = $(shell $(top_srcdir)/util/pick_cxx $(IMPL_SOURCES))
+IMPL_CU_SOURCES = $(shell $(top_srcdir)/util/pick_cu $(IMPL_SOURCES))
+IMPL_CXX_OBJECTS = $(shell echo $(IMPL_CXX_SOURCES) | sed -e 's:[^ ]*/\([-_0-9A-Za-z]*\)\.\(cxx\|cc\):\1.o:')
+IMPL_CU_OBJECTS = $(shell echo $(IMPL_CU_SOURCES) | sed -e 's:[^ ]*/\([-_0-9A-Za-z]*\)\.cu:\1.o:')
+IMPL_DEP_FILES = $(shell echo $(IMPL_CXX_SOURCES) | sed -e 's:[^ ]*/\([-_0-9A-Za-z]*\)\.\(cxx\|cc\):.deps/\1.Po:')
+
+INCLUDES = -I. -I$(top_srcdir) $(NVINCLUDES)
+DEFS = -DFLOAT=$(FLOAT) -DSOLVER_IMPL_NAME=\"$(SOLVER_IMPL_NAME)\"
+CXX = /usr/local/cuda/bin/nvcc
+CXXFLAGS = $(NVFLAGS) -g -O3 --x cu --compiler-options="-Wall" #--compiler-options="-std=c++0x"
+CXXCOMPILE = $(CXX) $(CXXFLAGS) $(INCLUDES) $(DEFS)
+CXXLINK = $(CXXCOMPILE) $(LDFLAGS)
+LDFLAGS = $(NVLDFLAGS)
+LDLIBS = $(NVLDLIBS)
+
+.PHONY: all
+all: a.out
+
+.PHONY: realclean
+realclean: clean
+
+.PHONY: clean
+clean:
+	rm -f a.out
+	rm -fr .deps
+	-rm -f *.o
+	-rm -f *.ptx
+
+a.out: $(COMMON_SOURCES) $(IMPL_CXX_OBJECTS) $(IMPL_CU_OBJECTS) $(IMPL_SOURCES)
+	$(CXXLINK) -o a.out $(COMMON_CXX_SOURCES) $(COMMON_CU_SOURCES) $(IMPL_CXX_OBJECTS) $(IMPL_CU_OBJECTS) $(LDLIBS)
+
+.cc.o:
+	@[ -d .deps ] || mkdir .deps
+	$(CXXCOMPILE) --compiler-options "-MT $@ -MD -MP -MF .deps/$*.Tpo" -c -o $@ $<
+	mv -f .deps/$*.Tpo .deps/$*.Po
+
+include $(IMPL_DEP_FILES)
+$(IMPL_DEP_FILES):
