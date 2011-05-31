@@ -29,10 +29,10 @@ static void initializeField(Solver<Float> const &solver, Float *data)
   Vec3<Float> cellSpacing = solver.cellSpacing();
   Vec3<Float> k = Vec3<Float>(2.0, 2.0, 2.0) * Float(M_PI);
 
-  for (uint jz = 0 ; jz < numNodesInGrid.z; jz++) {
-    for (unsigned int jy = 0 ; jy < numNodesInGrid.y; jy++) {
-      for (unsigned int jx = 0 ; jx < numNodesInGrid.x; jx++) {
-	Vec3<Float> x((jx - halo) + Float(0.5), (jy - halo) + Float(0.5), (jz - halo) + Float(0.5));
+  for (uint jz = 0; jz < numNodesInGrid.z; jz++) {
+    for (uint jy = 0; jy < numNodesInGrid.y; jy++) {
+      for (uint jx = 0; jx < numNodesInGrid.x; jx++) {
+	Vec3<Float> x((int(jx) - halo) + Float(0.5), (int(jy) - halo) + Float(0.5), (int(jz) - halo) + Float(0.5));
 	Vec3<Float> phase = k * cellSpacing * x;
 	f(jx, jy, jz) = Float(0.125) * (Float(1.0) - cos(phase.x)) * (Float(1.0) - cos(phase.y)) * (Float(1.0) - cos(phase.z));
       }
