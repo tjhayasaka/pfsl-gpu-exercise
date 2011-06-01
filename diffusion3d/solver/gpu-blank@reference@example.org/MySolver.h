@@ -117,11 +117,11 @@ __global__ void gpu_diffusion3d(Float *f, Float *fn, dim3 numNodesInGrid, Vec3<F
 template <typename Float>
 int MySolver<Float>::nextTick(Float kappa, Float dt)
 {
-  uint const nx = this->numNodesInGrid().x;
-  uint const ny = this->numNodesInGrid().y;
-  //uint const nz = this->numNodesInGrid().z;
-  Vec3<Float> const c = kappa * dt / (cellSpacing_ * cellSpacing_);
-  Float const cc = Float(1.0) - (c.x + c.x + c.y + c.y + c.z + c.z);
+  // uint const nx = this->numNodesInGrid().x;
+  // uint const ny = this->numNodesInGrid().y;
+  // uint const nz = this->numNodesInGrid().z;
+  // Vec3<Float> const c = kappa * dt / (cellSpacing_ * cellSpacing_);
+  // Float const cc = Float(1.0) - (c.x + c.x + c.y + c.y + c.z + c.z);
 
   /*
    * your code comes here
