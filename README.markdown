@@ -1,7 +1,13 @@
 2011 コンペ 
 ===========
 
-2010年の青木研主催のコンペティションと同様のルールで行います。
+  - HPC のための C/C++ プログラミング
+
+  - CUDA を使用した GPU計算プログラミング
+
+  - エディタ、make、git 等の周辺ツールの使用
+
+の初歩的な技術習得を目的として、コンペティションを開催します。
 
 お題は『3次元拡散方程式』です。
 
@@ -25,10 +31,13 @@ CPU 計算の実装例と GPU 計算の雛形を github
 合はインストールしてください)。また、実装例と雛形は更新されることがある
 ので、適宜 git pull するようにしてください。
 
+コンパイルには CUDA の SDK の他、g++ と boost が必要です。
+
 CPU 計算の実装例は solver/cpu@reference@example.org にあります。
 
-GPU 計算の雛形 solver/gpu-blank@reference@example.org を各自のディレクトリ
-(solver/gpu@メールアドレス、例えば gpu@hayasaka@pfsl.mech.tohoku.ac.jp)
+GPU 計算の雛形 solver/gpu-blank@reference@example.org を
+各自のディレクトリ (solver/gpu@メールアドレス、
+例えば solver/gpu@hayasaka@pfsl.mech.tohoku.ac.jp)
 にコピーし、中身を完成させてください。実質的に書換える必要があるのは
 MySolver.h 内の二つの関数だけです。性能や保守性の向上のために他の部分を
 改良することも歓迎します。
@@ -40,11 +49,18 @@ GPU 計算ではどのような配列のサイズを使ってもかまいませ�
 Error で表示される計算結果が (ほぼ) 完全に一致していることで確認するこ
 とができます。
 
-提出
+参加
 ----
 
-2099年66月666日00時00分までに以下のいずれかの方法で
-hayasaka@pfsl.mech.tohoku.ac.jp まで提出してください。
+有効な email address を持つ個人の方であれば、どなたでも参加できます。
+山口研関係者以外でも、プロでも可。
+参加登録の必要はありません。提出をもって参加とします。
+
+提出、連絡先
+------------
+
+2011年 7月 4日(月) 00時00分までに以下のいずれかの方法で
+hayasaka@pfsl.mech.tohoku.ac.jp までソースコードを提出してください。
 
   - github 上の自分専用のフォークに push する。pull request を出すか、
     メールでブランチ名を教えてください。
@@ -52,7 +68,11 @@ hayasaka@pfsl.mech.tohoku.ac.jp まで提出してください。
   - ソースコードを .tar.bz2 などにアーカイブしてメールで送る。
 
 提出されたファイルは、hayasaka@pfsl.mech.tohoku.ac.jp がまとめた上で
-github 上で公開する予定です。著作権や特許に注意してください。
+github 上で公開する予定です。著作権や特許に注意してください。また
+email address や氏名の公開を拒否する場合は、提出時にその旨を明示してく
+ださい。
+
+質問等も上記のアドレスまでお願いします。
 
 勝敗
 ----
@@ -61,7 +81,7 @@ github 上で公開する予定です。著作権や特許に注意してくだ�
 の GTX580 で `float` での計算速度を計測した結果の SCORE で決定します。
 提出方法、テストのしやすさ等は、勝敗判定の上では考慮しません。
 
-SCORE は 2010年と同じで、
+SCORE は青木研主催の 2010年と同じで、
 
         SCORE = (A)/30 + (B)/40 + (C)/50
         (A) = 64×64×64 の Performance (単位 GFlops)
@@ -75,8 +95,8 @@ SCORE は 2010年と同じで、
 実装例について
 ==============
 
-Debian GNU/Linux (sid)、CUDA SDK 4.0、g++-4.4 でコンパイル、実行を確認
-済み。
+Debian GNU/Linux (sid) 32bit、CUDA SDK 4.0 + driver 270.41.19、g++-4.4、
+libboost 1.46.1、C2Q 9550、GeForce 8600 GT でコンパイル、実行を確認済み。
 
 実装例のコンパイルと実行
 ------------------------
@@ -103,7 +123,7 @@ Debian GNU/Linux (sid)、CUDA SDK 4.0、g++-4.4 でコンパイル、実行を�
                 素直な CPU版 - cpu@reference@example.org
           ちょっと速い CPU版 - cpu@hayasaka@pfsl.mech.tohoku.ac.jp
          そこそこ速い GPU 版 - gpu@hayasaka@pfsl.mech.tohoku.ac.jp
-           中身が空の GPU 版 - gpu-blank@reference@example.org
+       中身が空の GPU 版雛形 - gpu-blank@reference@example.org
 
 の 4種類。
 
@@ -125,8 +145,8 @@ C++ の HPC 向きの機能を使用している。関数テンプレート、�
 ト、関数や演算子のオーバーロード等。記述が簡潔、安全、柔軟、実行が高速。
 コンパイルは遅い。
 
-`FLOAT`
--------
+型: `FLOAT`
+-----------
 
 プリプロセッサマクロ `FLOAT` で、計算に使用する浮動小数点型を指定できる
 ようにしてある (今のところ `float` か `double` のみ)。`FLOAT` を直接参
@@ -135,15 +155,15 @@ C++ の HPC 向きの機能を使用している。関数テンプレート、�
 所がある。他の部分からは、テンプレートのパラメータ `Float` として参照さ
 れる。
 
-`Vec3<T>`
----------
+型: `Vec3<T>`
+-------------
 
 cuda の `float3` 等のテンプレート化されたラッパとして `Vec3<T>` を定義
 している。`T` としてはいまのところ `unsigned int`, `int`, `float`,
 `double` のみが使用可能。
 
-`Float`
--------
+型: `Float`
+-----------
 
 計算式中に `Float(1.0)` など、定数をキャストしているところがある。例えば、
 
