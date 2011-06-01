@@ -167,21 +167,21 @@ cuda の `float3` 等のテンプレート化されたラッパとして `Vec3<T
 
 計算式中に `Float(1.0)` など、定数をキャストしているところがある。例えば、
 
-        Float a = 0.5;  a = 1.0 - cos(a);
+        Float a; /*...*/ a = 1.0 - cos(a);
 
 ではなく
 
-        Float a = 0.5;  a = Float(1.0) - cos(a);
+        Float a; /*...*/ a = Float(1.0) - cos(a);
 
 のように記述している。前者と後者は `Float` が `double` の時は同じ動作だ
 が `float` の時はそれぞれ
 
         前者:
-        float a = float(1.0 - cos((double)f)); // C の場合
-        float a = float(1.0 - double(cosf(f))); // C++ の場合
+        a = float(1.0 - cos((double)a)); // C の場合
+        a = float(1.0 - double(cosf(a))); // C++ の場合
 
         後者:
-        float a = 1.0f - cosf(0.5f);
+        a = 1.0f - cosf(0.5f);
 
 の意味になる。今回は付随する計算も常に `Float` の型で行われるように、後
 者で統一してある。なお、C++ では `cos()` などの関数は引数の型によってオー
