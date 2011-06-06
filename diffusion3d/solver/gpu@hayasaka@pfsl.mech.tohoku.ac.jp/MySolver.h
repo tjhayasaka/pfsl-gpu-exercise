@@ -47,6 +47,7 @@ private:
 };
 
 
+//
 
 template <typename Float>
 class MySolver : public Solver<Float>
@@ -97,17 +98,17 @@ void MySolver<Float>::reset(Dim3 const &numNodesInGrid, Vec3<Float> const &cellS
 template <typename Float>
 void MySolver<Float>::withFrontBuffer(enum Solver<Float>::BufferOpMode mode, boost::function<void (Solver<Float> const &solver, Float *f)> func)
 {
-  boost::scoped_array<Float> p(new Float[this->numTotalNodesInGridIncludingHalo()]);
+  boost::scoped_array<Float> host_tmp_p(new Float[this->numTotalNodesInGridIncludingHalo()]);
 
   if (mode != Solver<Float>::bom_wo) {
-    cudaMemcpy(p.get(), buf_front_.get(), sizeof(Float) * this->numTotalNodesInGridIncludingHalo(), cudaMemcpyDeviceToHost);
+    cudaMemcpy(host_tmp_p.get(), buf_front_.get(), sizeof(Float) * this->numTotalNodesInGridIncludingHalo(), cudaMemcpyDeviceToHost);
     assert(cudaGetLastError() == cudaSuccess);
   }
 
-  func(*this, p.get());
+  func(*this, host_tmp_p.get());
 
   if (mode != Solver<Float>::bom_ro) {
-    cudaMemcpy(buf_front_.get(), p.get(), sizeof(Float) * this->numTotalNodesInGridIncludingHalo(), cudaMemcpyHostToDevice);
+    cudaMemcpy(buf_front_.get(), host_tmp_p.get(), sizeof(Float) * this->numTotalNodesInGridIncludingHalo(), cudaMemcpyHostToDevice);
     assert(cudaGetLastError() == cudaSuccess);
   }
 }
