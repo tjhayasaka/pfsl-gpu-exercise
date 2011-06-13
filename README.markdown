@@ -25,7 +25,7 @@
 CPU 計算の実装例と GPU 計算の雛形を github
 (https://github.com/tjhayasaka/pfsl-gpu-exercise) にて公開しています。
 
-        $ git clone https://tjhayasaka@github.com/tjhayasaka/pfsl-gpu-exercise.git
+        $ git clone https://github.com/tjhayasaka/pfsl-gpu-exercise.git
 
 で、手元のマシンにコピーしてください (git がインストールされていない場
 合はインストールしてください)。また、実装例と雛形は更新されることがある
