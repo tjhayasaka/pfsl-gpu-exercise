@@ -24,7 +24,7 @@ IMPL_DEP_FILES = $(shell echo $(IMPL_CXX_SOURCES) | sed -e 's:[^ ]*/\([-_0-9A-Za
 INCLUDES = -I. -I$(top_srcdir) $(NVINCLUDES)
 DEFS = -DFLOAT=$(FLOAT) -DSOLVER_IMPL_NAME=\"$(SOLVER_IMPL_NAME)\"
 CXX = /usr/local/cuda/bin/nvcc
-CXXFLAGS = $(NVFLAGS) -g -O3 --x cu --compiler-options="-Wall" #--compiler-options="-std=c++0x"
+CXXFLAGS = $(NVFLAGS) -g -O3 --x cu --compiler-options="-Wall" $(SOLVER_OPTIONS) #--compiler-options="-std=c++0x"
 CXXCOMPILE = $(CXX) $(CXXFLAGS) $(INCLUDES) $(DEFS)
 CXXLINK = $(CXXCOMPILE) $(LDFLAGS)
 LDFLAGS = $(NVLDFLAGS)

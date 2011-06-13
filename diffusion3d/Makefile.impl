@@ -6,6 +6,8 @@
 
 FLOAT = float
 SOLVER_IMPL_NAME = cpu@gpu-exercise@example.org
+# additional compiler options can be passed via SOLVER_OPTIONS (e.g. make SOLVER_OPTIONS='-DMY_DEF=123')
+SOLVER_OPTIONS =
 
 ###
 ###
@@ -17,6 +19,7 @@ top_srcdir = .
 srcdir = $(top_srcdir)
 
 CUDA_PATH = /usr/local/cuda
+# CUDA_SDK_PATH = /usr/NVIDIA_GPU_Computing_SDK/C
 # CUDA_SDK_PATH = /Developer/GPU\ Computing/C
 CUDA_SDK_PATH = ${HOME}/NVIDIA_GPU_Computing_SDK/C
 # CUDA_SDK_PATH = ${HOME}/NVIDIA_CUDA_SDK/
@@ -42,7 +45,8 @@ IMPL_BIN = bin/$(IMPL_BIN_NAME)
 SUBMAKE_VARS = top_srcdir=$(SOLVER_REV_DIR)/$(top_srcdir) \
 	CUDA_PATH=$(CUDA_PATH) CUDA_SDK_PATH=$(CUDA_SDK_PATH) \
 	NVFLAGS="$(NVFLAGS)" NVINCLUDES="$(NVINCLUDES)" NVLDFLAGS="$(NVLDFLAGS)" NVLDLIBS="$(NVLDLIBS)" \
-	FLOAT=$(FLOAT) SOLVER_IMPL_NAME=$(SOLVER_IMPL_NAME)
+	FLOAT=$(FLOAT) SOLVER_IMPL_NAME=$(SOLVER_IMPL_NAME) \
+	SOLVER_OPTIONS=$(SOLVER_OPTIONS)
 
 .PHONY: all
 all: $(IMPL_BIN)
