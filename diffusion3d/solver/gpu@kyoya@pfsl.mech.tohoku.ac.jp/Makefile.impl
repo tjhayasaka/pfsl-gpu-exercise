@@ -1,0 +1,8 @@
+###
+###
+###
+
+### Do not write any environment specific stuff in this file!!!
+
+IMPL_SOURCES = $(srcdir)/MySolver.h
+include ../common/Makefile.impl
