@@ -1,3 +1,38 @@
+2011 コンペ 結果
+================
+                                                                                                               
+    順位        実装 (提出者)             nx=64 で  nx=128で  nx=256で  SCORE (1)
+                                          のGFLOPS  のGFLOPS  のGFLOPS
+    1 gpu@nakaaki@pfsl.mech.tohoku.ac.jp   49.995   137.798   146.738   8.046
+    2 gpu@miyagawa@pfsl.mech.tohoku.ac.jp  78.952   101.341    93.944   7.044 (2)
+    3 gpu@kyoya@pfsl.mech.tohoku.ac.jp     70.613    85.781    79.989   6.098
+
+    (1) GTX580 で `float` でランダムな順に 70回ずつ実行し、最も高い FLOPS の値を採用した。
+        SCORE = (A)/30 + (B)/40 + (C)/50
+        (A) = 64×64×64 の Performance (単位 GFlops)
+        (B) = 128×128×128 の Performance (単位 GFlops)
+        (C) = 256×256×256 の Performance (単位 GFlops)
+
+    (2) 実際の FLOPS (と SCORE) は表の 10/13
+
+GTX580 のキャッシュの効果が良くわかる結果となりました。
+
+  - 1 は shared memory を使用して、global memory へのアクセスを減らし
+    (要素あたり r/w 各1回のみ)、かつ coalesced になるように工夫されている。
+
+  - 2 と 3 は要素あたり read 5回、write 1回。
+
+  - 通常 iteration 一回あたり 13flops のところ、2 は式を簡略化し
+    10flops しか使用していない (`mul.f32` * 1 + `mad.f32` (2flops) * 3 + `add.f32` * 3)。
+    flops 計算の式を修正してないので値は 3割水増しだが、工夫の一環として認める。
+
+  - nx=64時には shared memoryを使わない 2 や 3が速い。
+
+  - MySolver 以外のコードをいじった人はいなかった。
+
+各実装は master branch にマージ済みです。
+github (https://github.com/tjhayasaka/pfsl-gpu-exercise) にて公開しています。
+
 2011 コンペ 
 ===========
 
