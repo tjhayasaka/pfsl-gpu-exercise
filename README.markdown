@@ -15,18 +15,22 @@
 
     (2) 実際の FLOPS (と SCORE) は表の 10/13
 
-GTX580 のキャッシュの効果が良くわかる結果となりました。
+僅差でした。GTX580 (compute capability 2.0) のキャッシュの効果が良くわかる結果となりました。
 
   - 1 は shared memory を使用して、global memory へのアクセスを減らし
     (要素あたり r/w 各1回のみ)、かつ coalesced になるように工夫されている。
+    compute capability 1.0 な GPU でも速い。
 
   - 2 と 3 は要素あたり read 5回、write 1回。
+    compute capability 1.0 な GPU ではすごく遅い。
 
   - 通常 iteration 一回あたり 13flops のところ、2 は式を簡略化し
     10flops しか使用していない (`mul.f32` * 1 + `mad.f32` (2flops) * 3 + `add.f32` * 3)。
     flops 計算の式を修正してないので値は 3割水増しだが、工夫の一環として認める。
 
-  - nx=64時には shared memoryを使わない 2 や 3が速い。
+  - nx=64時には shared memoryを使わない単純な実装の 2 や 3が速い。
+
+  - halo は全員 0。
 
   - MySolver 以外のコードをいじった人はいなかった。
 
