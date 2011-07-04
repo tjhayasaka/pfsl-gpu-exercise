@@ -1,0 +1,1174 @@
+#
+# gpu@hayasaka@pfsl.mech.tohoku.ac.jp      66.031 178.496 165.215   9.968
+# gpu@nakaaki@pfsl.mech.tohoku.ac.jp       49.995 137.798 146.738   8.046
+# gpu@miyagawa@pfsl.mech.tohoku.ac.jp      78.952 101.341  93.944   7.044
+# gpu@kyoya@pfsl.mech.tohoku.ac.jp         70.613  85.781  79.989   6.098
+#
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.993e-02	70099.71	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.218e-01	85576.70	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.800e+01	79430.47	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.777e-02	78624.02	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.412e-01	101224.38	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93803.98	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.813e-02	49670.37	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.285e-01	135941.00	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.750e+00	146604.95	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.135e-02	65450.04	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.508e-01	178078.53	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.656e+00	165138.03	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.049e-02	68194.02	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.459e-01	81802.41	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.804e+01	79229.20	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.891e-02	73903.91	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.419e-01	101062.19	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93786.24	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.801e-02	49892.07	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.278e-01	136233.38	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.752e+00	146578.27	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.129e-02	65643.76	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.502e-01	178468.53	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.657e+00	165128.67	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.087e-02	66952.30	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.259e-01	84922.02	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.789e+01	79913.88	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.793e-02	77922.45	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.425e-01	100922.64	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93790.09	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.962e-02	47168.57	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.277e-01	136278.67	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.752e+00	146580.44	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.134e-02	65462.31	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.504e-01	178321.73	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.657e+00	165125.97	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.090e-02	66849.79	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.454e-01	81875.30	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.800e+01	79400.59	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.887e-02	74029.22	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.419e-01	101053.72	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93509.09	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.902e-02	48140.41	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.303e-01	135201.41	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.747e+00	146651.12	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.127e-02	65705.50	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.533e-01	176300.56	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.714e+00	164031.64	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.081e-02	67151.80	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.226e-01	85457.66	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.803e+01	79265.42	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.887e-02	74060.61	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.465e-01	100016.47	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93492.75	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.822e-02	49510.20	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.285e-01	135959.20	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.819e+00	145581.98	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.206e-02	63331.86	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.513e-01	177702.95	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.711e+00	164092.30	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.004e-02	69725.41	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.232e-01	85350.52	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.790e+01	79877.05	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.790e-02	78066.12	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.417e-01	101112.98	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93780.83	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.818e-02	49578.72	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.281e-01	136090.95	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.761e+00	146440.94	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.141e-02	65248.32	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.508e-01	178062.91	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.655e+00	165156.78	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.993e-02	70092.68	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.458e-01	81819.04	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.795e+01	79651.86	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.897e-02	73650.70	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.472e-01	99869.73	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93482.31	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.928e-02	47717.89	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.305e-01	135101.19	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.828e+00	145444.75	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.225e-02	62793.92	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.504e-01	178348.78	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.708e+00	164145.11	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.005e-02	69673.26	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.223e-01	85498.07	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.796e+01	79587.51	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.773e-02	78788.06	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.423e-01	100974.44	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.523e+01	93883.40	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.963e-02	47163.79	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.279e-01	136200.12	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.756e+00	146520.41	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.187e-02	63879.09	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.532e-01	176347.20	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.700e+00	164301.75	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.984e-02	70424.77	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.213e-01	85664.70	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.790e+01	79872.75	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.842e-02	75857.95	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.472e-01	99865.71	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.528e+01	93525.96	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.987e-02	46780.08	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.283e-01	136035.83	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.804e+00	145802.14	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.131e-02	65557.52	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.568e-01	173909.89	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.717e+00	163978.55	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.992e-02	70131.38	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.221e-01	85539.51	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.796e+01	79600.77	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.796e-02	77800.96	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.422e-01	100984.48	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.525e+01	93729.19	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.942e-02	47497.28	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.284e-01	135969.12	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.801e+00	145852.50	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.137e-02	65388.78	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.521e-01	177146.06	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.707e+00	164180.67	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.997e-02	69969.82	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.247e-01	85109.11	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.799e+01	79472.69	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.798e-02	77697.13	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.420e-01	101034.75	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93789.09	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.887e-02	48393.86	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.291e-01	135673.38	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.760e+00	146458.05	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.201e-02	63467.07	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.532e-01	176401.53	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.713e+00	164068.47	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.093e-02	66763.54	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.400e-01	82698.60	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.803e+01	79261.19	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.950e-02	71645.34	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.471e-01	99881.35	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93786.09	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.969e-02	47055.79	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.294e-01	135573.28	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.819e+00	145581.53	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.184e-02	63987.34	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.520e-01	177191.77	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.711e+00	164092.17	1.9806e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.824e-02	49480.40	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.281e-01	136107.97	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.809e+00	145727.64	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.119e-02	65928.73	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.531e-01	176426.61	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.718e+00	163971.61	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.063e-02	67737.79	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.460e-01	81788.32	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.791e+01	79792.92	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.895e-02	73724.53	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.430e-01	100813.95	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93497.20	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.811e-02	49712.78	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.308e-01	135012.95	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.804e+00	145797.62	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.091e-02	66811.43	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.461e-01	81776.34	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.807e+01	79109.60	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.879e-02	74372.03	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.426e-01	100905.30	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93492.07	1.7954e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.220e-02	62941.01	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.530e-01	176524.27	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.710e+00	164108.45	1.9806e-05
+########
+# benchmarking start: Mon Jul 04 03:21:47 +0900 2011
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe"]
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.815e-02	49636.84	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.287e-01	135859.52	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.813e+00	145674.70	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.995e-02	70022.42	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.234e-01	85322.95	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.791e+01	79820.70	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.888e-02	74001.77	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.469e-01	99928.95	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93488.60	1.7954e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.229e-02	62675.62	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.504e-01	178360.89	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.709e+00	164144.05	1.9806e-05
+# benchmarking finished: Mon Jul 04 03:22:59 +0900 2011, elapsed = 71.995603
+########
+########
+# benchmarking start: 2011-07-04 04:03:17 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.131e-02	65560.59	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.506e-01	178212.12	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.673e+00	164812.98	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.123e-02	65810.72	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.458e-01	81817.25	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.800e+01	79396.13	1.1313e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.944e-02	47460.17	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.308e-01	135008.06	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.761e+00	146446.58	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.889e-02	73978.27	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.418e-01	101071.11	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.527e+01	93594.27	1.7954e-05
+# benchmarking finished: 2011-07-04 04:04:29 +0900, elapsed = 71.969276
+########
+########
+# benchmarking start: 2011-07-04 04:04:53 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.117e-02	65994.11	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.534e-01	176251.84	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.710e+00	164108.59	1.9806e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.890e-02	73946.94	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.469e-01	99924.48	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93769.53	1.7954e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.064e-02	67704.97	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.458e-01	81823.84	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.795e+01	79628.48	1.1313e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.944e-02	47455.34	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.305e-01	135135.12	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.759e+00	146479.88	1.1313e-05
+# benchmarking finished: 2011-07-04 04:06:05 +0900, elapsed = 71.838543
+########
+########
+# benchmarking start: 2011-07-04 04:08:15 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe"]
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.791e-02	77996.40	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.470e-01	99911.74	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93492.85	1.7954e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.136e-02	65413.27	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.540e-01	175807.77	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.656e+00	165137.11	1.9806e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.938e-02	47560.33	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.296e-01	135497.59	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.797e+00	145901.08	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.088e-02	66913.82	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.458e-01	81814.99	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.803e+01	79267.29	1.1313e-05
+# benchmarking finished: 2011-07-04 04:09:27 +0900, elapsed = 72.07118
+########
+########
+# benchmarking start: 2011-07-04 04:14:35 +0900
+# bin_files = ["bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe"]
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.991e-02	70191.27	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.216e-01	85615.27	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.792e+01	79762.61	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.777e-02	78632.88	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.414e-01	101180.10	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93780.10	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.810e-02	49721.62	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.294e-01	135588.50	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.765e+00	146383.30	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.124e-02	65773.55	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.507e-01	178094.16	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.655e+00	165153.92	1.9806e-05
+# benchmarking finished: 2011-07-04 04:15:46 +0900, elapsed = 71.360296
+########
+########
+# benchmarking start: 2011-07-04 04:17:02 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe"]
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.773e-02	78788.06	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.413e-01	101188.13	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.522e+01	93944.34	1.7954e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.996e-02	69990.86	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.214e-01	85654.84	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.791e+01	79801.86	1.1313e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.800e-02	49909.89	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.276e-01	136294.50	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.749e+00	146622.53	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.126e-02	65727.14	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.504e-01	178313.89	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.656e+00	165134.55	1.9806e-05
+# benchmarking finished: 2011-07-04 04:18:13 +0900, elapsed = 71.220007
+########
+########
+# benchmarking start: 2011-07-04 04:19:13 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe"]
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.790e-02	78061.76	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.413e-01	101203.04	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93784.70	1.7954e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.984e-02	70414.12	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.232e-01	85360.14	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.789e+01	79893.14	1.1313e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.809e-02	49744.64	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.293e-01	135606.62	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.812e+00	145677.48	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.199e-02	63550.79	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.527e-01	176699.56	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.655e+00	165158.89	1.9806e-05
+# benchmarking finished: 2011-07-04 04:20:25 +0900, elapsed = 71.530691
+########
+########
+# benchmarking start: 2011-07-04 04:21:25 +0900
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.943e-02	47471.46	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.278e-01	136247.92	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.751e+00	146593.89	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.123e-02	65807.62	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.530e-01	176522.88	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.657e+00	165127.44	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.086e-02	66981.18	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.459e-01	81803.61	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.803e+01	79293.53	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.798e-02	77731.71	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.469e-01	99931.87	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93494.12	1.7954e-05
+# benchmarking finished: 2011-07-04 04:22:36 +0900, elapsed = 71.713105
+########
+########
+# benchmarking start: 2011-07-04 04:23:36 +0900
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:23:36 up 22 days, 14:59, 14 users,  load average: 0.28, 0.41, 0.34
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.814e-02	49649.19	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.283e-01	136029.19	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.750e+00	146614.00	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.855e-02	75326.29	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.437e-01	100651.50	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93491.61	1.7954e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.078e-02	67229.34	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.458e-01	81825.04	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.790e+01	79863.06	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.128e-02	65649.93	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.505e-01	178266.19	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.708e+00	164158.95	1.9806e-05
+# benchmarking finished: 2011-07-04 04:24:48 +0900, elapsed = 71.825825
+########
+########
+# benchmarking start: 2011-07-04 04:25:48 +0900
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:25:48 up 22 days, 15:01, 14 users,  load average: 0.29, 0.44, 0.36
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.937e-02	47576.53	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.304e-01	135165.39	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.752e+00	146577.06	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.001e-02	69809.02	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.221e-01	85540.32	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.800e+01	79431.91	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.213e-02	63142.96	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.527e-01	176703.06	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.713e+00	164067.48	1.9806e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.793e-02	77935.49	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.468e-01	99953.12	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93491.39	1.7954e-05
+# benchmarking finished: 2011-07-04 04:27:00 +0900, elapsed = 72.04612
+########
+########
+# benchmarking start: 2011-07-04 04:28:00 +0900
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:28:00 up 22 days, 15:03, 14 users,  load average: 0.28, 0.45, 0.37
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.940e-02	47521.51	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.280e-01	136161.92	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.812e+00	145687.39	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.783e-02	78363.85	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99962.52	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93497.46	1.7954e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.128e-02	65668.45	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.527e-01	176684.89	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.719e+00	163952.28	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.074e-02	67368.73	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.436e-01	82152.90	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.798e+01	79511.85	1.1313e-05
+# benchmarking finished: 2011-07-04 04:29:12 +0900, elapsed = 72.126409
+########
+########
+# benchmarking start: 2011-07-04 04:30:12 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:30:12 up 22 days, 15:05, 14 users,  load average: 0.27, 0.44, 0.38
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.206e-02	63351.96	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.515e-01	177536.92	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.706e+00	164191.72	1.9806e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.785e-02	78284.83	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99965.65	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93492.59	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.931e-02	47675.55	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.312e-01	134818.12	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.822e+00	145536.25	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.068e-02	67560.92	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.453e-01	81887.91	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.801e+01	79388.84	1.1313e-05
+# benchmarking finished: 2011-07-04 04:31:24 +0900, elapsed = 72.019466
+########
+########
+# benchmarking start: 2011-07-04 04:32:25 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:32:25 up 22 days, 15:08, 14 users,  load average: 0.29, 0.46, 0.39
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.192e-02	63756.67	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.534e-01	176239.33	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.657e+00	165111.97	1.9806e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.879e-02	74344.34	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99961.84	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93785.89	1.7954e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.988e-02	70297.23	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.460e-01	81784.13	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.800e+01	79428.17	1.1313e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.941e-02	47505.36	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.292e-01	135650.28	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.754e+00	146554.39	1.1313e-05
+# benchmarking finished: 2011-07-04 04:33:36 +0900, elapsed = 71.704321
+########
+########
+# benchmarking start: 2011-07-04 04:34:36 +0900
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:34:36 up 22 days, 15:10, 14 users,  load average: 0.31, 0.49, 0.42
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.944e-02	47463.39	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.293e-01	135591.80	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.810e+00	145720.69	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.189e-02	63817.82	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.527e-01	176707.27	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.705e+00	164207.56	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.067e-02	67609.96	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.459e-01	81800.61	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.800e+01	79395.41	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.876e-02	74494.95	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.459e-01	100138.93	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93498.45	1.7954e-05
+# benchmarking finished: 2011-07-04 04:35:49 +0900, elapsed = 72.317612
+########
+########
+# benchmarking start: 2011-07-04 04:36:49 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:36:49 up 22 days, 15:12, 14 users,  load average: 0.29, 0.49, 0.43
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.119e-02	65944.28	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.530e-01	176508.20	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.717e+00	163983.20	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.083e-02	67074.43	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.458e-01	81815.14	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.807e+01	79087.88	1.1313e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.811e-02	49709.25	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.281e-01	136105.91	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.753e+00	146559.14	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.827e-02	76468.23	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99960.27	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93786.59	1.7954e-05
+# benchmarking finished: 2011-07-04 04:38:01 +0900, elapsed = 71.984052
+########
+########
+# benchmarking start: 2011-07-04 04:39:01 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:39:01 up 22 days, 15:14, 14 users,  load average: 0.39, 0.54, 0.46
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.191e-02	63779.96	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.506e-01	178187.23	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.714e+00	164048.48	1.9806e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.892e-02	73868.76	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.430e-01	100809.86	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93498.32	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.941e-02	47503.74	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.279e-01	136177.70	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.814e+00	145659.91	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.065e-02	67665.62	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.218e-01	85574.42	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.794e+01	79689.97	1.1313e-05
+# benchmarking finished: 2011-07-04 04:40:13 +0900, elapsed = 72.11939
+########
+########
+# benchmarking start: 2011-07-04 04:41:13 +0900
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:41:13 up 22 days, 15:16, 14 users,  load average: 0.29, 0.52, 0.46
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.943e-02	47476.30	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.277e-01	136290.75	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.757e+00	146500.72	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.869e-02	74774.02	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.468e-01	99956.91	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93493.93	1.7954e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.067e-02	67593.61	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.459e-01	81802.11	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.800e+01	79398.70	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.137e-02	65373.49	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.530e-01	176495.66	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.695e+00	164399.62	1.9806e-05
+# benchmarking finished: 2011-07-04 04:42:25 +0900, elapsed = 71.849942
+########
+########
+# benchmarking start: 2011-07-04 04:43:25 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:43:25 up 22 days, 15:19, 14 users,  load average: 0.32, 0.54, 0.48
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.796e-02	77792.30	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.420e-01	101026.52	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93490.24	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.946e-02	47431.17	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.276e-01	136304.89	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.815e+00	145637.98	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.117e-02	66015.94	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.534e-01	176249.75	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.710e+00	164108.44	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.079e-02	67216.40	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.310e-01	84105.20	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.802e+01	79343.09	1.1313e-05
+# benchmarking finished: 2011-07-04 04:44:37 +0900, elapsed = 72.076891
+########
+########
+# benchmarking start: 2011-07-04 04:45:37 +0900
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:45:37 up 22 days, 15:21, 14 users,  load average: 0.29, 0.51, 0.47
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.805e-02	49812.04	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.281e-01	136120.83	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.750e+00	146608.73	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.773e-02	78801.39	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.452e-01	100298.38	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93495.77	1.7954e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.208e-02	63288.83	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.529e-01	176592.67	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.716e+00	164011.64	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.008e-02	69593.44	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.458e-01	81819.20	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.798e+01	79490.80	1.1313e-05
+# benchmarking finished: 2011-07-04 04:46:49 +0900, elapsed = 71.880219
+########
+########
+# benchmarking start: 2011-07-04 04:47:49 +0900
+# bin_files = ["bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:47:49 up 22 days, 15:23, 14 users,  load average: 0.29, 0.50, 0.48
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.992e-02	70131.38	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.459e-01	81796.57	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.794e+01	79676.23	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.195e-02	63649.21	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.528e-01	176664.62	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.716e+00	164004.45	1.9806e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.939e-02	47534.45	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.281e-01	136118.34	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.809e+00	145724.88	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.880e-02	74316.66	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.413e-01	101194.33	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93508.97	1.7954e-05
+# benchmarking finished: 2011-07-04 04:49:01 +0900, elapsed = 72.071393
+########
+########
+# benchmarking start: 2011-07-04 04:50:01 +0900
+# bin_files = ["bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:50:01 up 22 days, 15:25, 14 users,  load average: 0.36, 0.54, 0.50
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.072e-02	67427.24	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.458e-01	81818.45	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.790e+01	79835.68	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.126e-02	65711.68	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.536e-01	176123.94	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.709e+00	164134.14	1.9806e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.870e-02	74710.05	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99972.58	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93784.70	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.805e-02	49804.93	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.295e-01	135524.72	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.756e+00	146516.08	1.1313e-05
+# benchmarking finished: 2011-07-04 04:51:12 +0900, elapsed = 71.722025
+########
+########
+# benchmarking start: 2011-07-04 04:52:13 +0900
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:52:13 up 22 days, 15:27, 14 users,  load average: 0.27, 0.50, 0.49
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.905e-02	48092.36	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.309e-01	134963.17	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.750e+00	146611.53	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.130e-02	65606.77	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.505e-01	178252.69	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.703e+00	164251.81	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.078e-02	67242.29	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.459e-01	81805.40	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.804e+01	79256.07	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.792e-02	77983.34	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.468e-01	99956.91	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93784.34	1.7954e-05
+# benchmarking finished: 2011-07-04 04:53:24 +0900, elapsed = 71.788624
+########
+########
+# benchmarking start: 2011-07-04 04:54:24 +0900
+# bin_files = ["bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:54:24 up 22 days, 15:30, 14 users,  load average: 0.29, 0.50, 0.49
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.989e-02	70244.20	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.223e-01	85495.12	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.787e+01	79989.07	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.879e-02	74352.25	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.469e-01	99918.01	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93791.53	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.804e-02	49822.69	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.276e-01	136297.39	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.814e+00	145651.17	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.207e-02	63300.30	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.531e-01	176463.56	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.711e+00	164105.31	1.9806e-05
+# benchmarking finished: 2011-07-04 04:55:36 +0900, elapsed = 71.627955
+########
+########
+# benchmarking start: 2011-07-04 04:56:36 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:56:36 up 22 days, 15:32, 14 users,  load average: 0.26, 0.47, 0.49
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.793e-02	77913.76	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99973.25	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93484.70	1.7954e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.136e-02	65407.14	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.528e-01	176652.73	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.710e+00	164121.92	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.062e-02	67757.50	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.460e-01	81793.88	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.792e+01	79764.18	1.1313e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.799e-02	49925.94	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.285e-01	135960.44	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.756e+00	146515.25	1.1313e-05
+# benchmarking finished: 2011-07-04 04:57:48 +0900, elapsed = 71.831198
+########
+########
+# benchmarking start: 2011-07-04 04:58:48 +0900
+# bin_files = ["bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 04:58:48 up 22 days, 15:34, 14 users,  load average: 0.32, 0.50, 0.50
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.081e-02	67148.56	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.206e-01	85781.70	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.803e+01	79269.74	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.200e-02	63501.68	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.526e-01	176754.83	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.656e+00	165143.17	1.9806e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.811e-02	77160.78	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.468e-01	99958.04	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93785.45	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.940e-02	47527.98	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.296e-01	135506.64	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.809e+00	145723.86	1.1313e-05
+# benchmarking finished: 2011-07-04 05:00:00 +0900, elapsed = 71.938205
+########
+########
+# benchmarking start: 2011-07-04 05:01:00 +0900
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:01:00 up 22 days, 15:36, 14 users,  load average: 0.29, 0.49, 0.50
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.946e-02	47436.00	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.275e-01	136337.77	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.759e+00	146468.86	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.236e-02	62485.02	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.534e-01	176249.05	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.712e+00	164073.36	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.071e-02	67463.06	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.356e-01	83372.54	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.790e+01	79840.28	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.876e-02	74494.95	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.468e-01	99954.46	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93494.96	1.7954e-05
+# benchmarking finished: 2011-07-04 05:02:12 +0900, elapsed = 71.892233
+########
+########
+# benchmarking start: 2011-07-04 05:03:12 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:03:12 up 22 days, 15:38, 14 users,  load average: 0.28, 0.48, 0.50
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.194e-02	63686.93	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.526e-01	176773.70	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.658e+00	165101.11	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.002e-02	69791.58	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.458e-01	81826.25	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.794e+01	79680.58	1.1313e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.941e-02	47516.66	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.277e-01	136261.64	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.807e+00	145754.88	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.865e-02	74910.33	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99966.09	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93510.35	1.7954e-05
+# benchmarking finished: 2011-07-04 05:04:24 +0900, elapsed = 72.006174
+########
+########
+# benchmarking start: 2011-07-04 05:05:24 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:05:24 up 22 days, 15:41, 14 users,  load average: 0.31, 0.51, 0.51
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.120e-02	65894.52	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.532e-01	176365.31	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.712e+00	164087.45	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.004e-02	69708.02	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.451e-01	81924.73	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.802e+01	79309.37	1.1313e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.941e-02	47510.20	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.277e-01	136285.73	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.814e+00	145649.84	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.865e-02	74930.42	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99961.16	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93490.22	1.7954e-05
+# benchmarking finished: 2011-07-04 05:06:36 +0900, elapsed = 72.266999
+########
+########
+# benchmarking start: 2011-07-04 05:07:36 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:07:36 up 22 days, 15:43, 14 users,  load average: 0.31, 0.51, 0.52
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.126e-02	65730.23	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.529e-01	176583.58	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.657e+00	165121.28	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.066e-02	67616.51	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.433e-01	82199.16	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.791e+01	79826.17	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.785e-02	78284.83	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99969.00	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93789.14	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.942e-02	47494.05	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.290e-01	135728.22	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.746e+00	146675.20	1.1313e-05
+# benchmarking finished: 2011-07-04 05:08:48 +0900, elapsed = 71.655537
+########
+########
+# benchmarking start: 2011-07-04 05:09:48 +0900
+# bin_files = ["bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:09:48 up 22 days, 15:45, 14 users,  load average: 0.29, 0.50, 0.52
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.001e-02	69815.99	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.216e-01	85619.53	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.788e+01	79946.40	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.790e-02	78079.20	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.434e-01	100720.05	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93493.00	1.7954e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.204e-02	63397.95	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.536e-01	176069.08	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.714e+00	164047.84	1.9806e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.815e-02	49640.37	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.284e-01	135999.38	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.763e+00	146412.16	1.1313e-05
+# benchmarking finished: 2011-07-04 05:10:59 +0900, elapsed = 71.686733
+########
+########
+# benchmarking start: 2011-07-04 05:12:00 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:12:00 up 22 days, 15:47, 14 users,  load average: 0.28, 0.49, 0.51
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.124e-02	65782.84	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.534e-01	176233.73	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.715e+00	164031.12	1.9806e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.945e-02	47450.50	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.280e-01	136164.81	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.803e+00	145820.03	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.875e-02	74502.91	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.468e-01	99952.45	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93494.77	1.7954e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.072e-02	67424.00	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.459e-01	81803.91	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.788e+01	79961.12	1.1313e-05
+# benchmarking finished: 2011-07-04 05:13:12 +0900, elapsed = 72.054863
+########
+########
+# benchmarking start: 2011-07-04 05:14:12 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:14:12 up 22 days, 15:49, 14 users,  load average: 0.28, 0.48, 0.51
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.774e-02	78752.54	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99980.64	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93492.99	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.880e-02	48523.27	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.280e-01	136139.50	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.753e+00	146558.73	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.004e-02	69708.02	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.211e-01	85692.98	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.797e+01	79536.89	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.127e-02	65686.97	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.508e-01	178022.45	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.658e+00	165095.64	1.9806e-05
+# benchmarking finished: 2011-07-04 05:15:23 +0900, elapsed = 71.6682
+########
+########
+# benchmarking start: 2011-07-04 05:16:23 +0900
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:16:23 up 22 days, 15:52, 14 users,  load average: 0.29, 0.48, 0.51
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.795e-02	49995.62	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.279e-01	136176.44	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.755e+00	146539.83	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.988e-02	70276.00	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.236e-01	85281.73	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.793e+01	79740.76	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.132e-02	65542.14	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.508e-01	178070.02	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.656e+00	165133.20	1.9806e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.779e-02	78553.29	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.414e-01	101167.96	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93782.54	1.7954e-05
+# benchmarking finished: 2011-07-04 05:17:35 +0900, elapsed = 71.333515
+########
+########
+# benchmarking start: 2011-07-04 05:18:35 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:18:35 up 22 days, 15:54, 14 users,  load average: 0.28, 0.48, 0.51
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.138e-02	65367.37	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.507e-01	178116.17	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.659e+00	165085.97	1.9806e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.780e-02	78500.33	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.412e-01	101227.13	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93495.62	1.7954e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.064e-02	67704.97	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.458e-01	81814.99	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.790e+01	79873.97	1.1313e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.947e-02	47418.29	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.276e-01	136312.39	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.747e+00	146654.64	1.1313e-05
+# benchmarking finished: 2011-07-04 05:19:46 +0900, elapsed = 71.644105
+########
+########
+# benchmarking start: 2011-07-04 05:20:46 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:20:46 up 22 days, 15:56, 14 users,  load average: 0.28, 0.48, 0.51
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.780e-02	78509.15	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.469e-01	99925.84	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93493.48	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.926e-02	47758.66	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.290e-01	135733.58	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.811e+00	145704.72	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.062e-02	67773.94	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.434e-01	82184.80	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.799e+01	79459.12	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.196e-02	63640.52	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.533e-01	176308.20	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.717e+00	163978.38	1.9806e-05
+# benchmarking finished: 2011-07-04 05:21:59 +0900, elapsed = 72.191346
+########
+########
+# benchmarking start: 2011-07-04 05:22:59 +0900
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:22:59 up 22 days, 15:58, 14 users,  load average: 0.28, 0.47, 0.51
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.943e-02	47471.46	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.277e-01	136293.23	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.749e+00	146621.62	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.777e-02	78610.75	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.463e-01	100050.30	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.523e+01	93828.01	1.7954e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.994e-02	70078.61	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.460e-01	81786.53	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.790e+01	79877.97	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.202e-02	63444.01	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.527e-01	176684.20	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.703e+00	164256.14	1.9806e-05
+# benchmarking finished: 2011-07-04 05:24:10 +0900, elapsed = 71.626305
+########
+########
+# benchmarking start: 2011-07-04 05:25:10 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:25:10 up 22 days, 16:00, 14 users,  load average: 0.28, 0.47, 0.50
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.791e-02	78009.47	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.409e-01	101293.25	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93808.27	1.7954e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.995e-02	70025.94	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.211e-01	85692.65	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.803e+01	79292.14	1.1313e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.805e-02	49810.25	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.278e-01	136245.42	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.755e+00	146530.53	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.193e-02	63707.25	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.529e-01	176572.42	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.709e+00	164126.84	1.9806e-05
+# benchmarking finished: 2011-07-04 05:26:22 +0900, elapsed = 71.628438
+########
+########
+# benchmarking start: 2011-07-04 05:27:22 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:27:22 up 22 days, 16:02, 14 users,  load average: 0.28, 0.47, 0.50
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.206e-02	63337.60	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.536e-01	176116.30	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.712e+00	164085.84	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.073e-02	67410.98	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.457e-01	81840.19	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.791e+01	79802.29	1.1313e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.817e-02	49596.31	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.277e-01	136264.55	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.755e+00	146538.59	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.791e-02	78009.47	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.411e-01	101242.50	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93510.16	1.7954e-05
+# benchmarking finished: 2011-07-04 05:28:34 +0900, elapsed = 71.862731
+########
+########
+# benchmarking start: 2011-07-04 05:29:34 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:29:34 up 22 days, 16:05, 14 users,  load average: 0.29, 0.47, 0.51
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.876e-02	74479.08	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.409e-01	101277.17	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93505.81	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.946e-02	47436.00	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.287e-01	135869.03	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.758e+00	146494.28	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.117e-02	66003.47	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.530e-01	176495.66	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.655e+00	165152.72	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.078e-02	67235.81	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.439e-01	82106.21	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.806e+01	79168.62	1.1313e-05
+# benchmarking finished: 2011-07-04 05:30:46 +0900, elapsed = 71.76108
+########
+########
+# benchmarking start: 2011-07-04 05:31:46 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:31:46 up 22 days, 16:07, 14 users,  load average: 0.33, 0.50, 0.51
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.786e-02	78219.08	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.407e-01	101341.76	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93798.72	1.7954e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.121e-02	65882.09	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.508e-01	178092.02	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.655e+00	165150.70	1.9806e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.806e-02	49803.15	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.280e-01	136151.95	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.824e+00	145501.30	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.087e-02	66949.09	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.277e-01	84623.34	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.792e+01	79777.73	1.1313e-05
+# benchmarking finished: 2011-07-04 05:32:57 +0900, elapsed = 71.552017
+########
+########
+# benchmarking start: 2011-07-04 05:33:57 +0900
+# bin_files = ["bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:33:57 up 22 days, 16:09, 14 users,  load average: 0.29, 0.49, 0.51
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.085e-02	67000.45	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.457e-01	81828.34	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.791e+01	79805.05	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.775e-02	78721.47	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.468e-01	99958.26	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93503.95	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.945e-02	47448.89	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.277e-01	136273.27	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.814e+00	145658.34	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.210e-02	63220.11	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.529e-01	176598.95	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.710e+00	164118.50	1.9806e-05
+# benchmarking finished: 2011-07-04 05:35:09 +0900, elapsed = 72.010224
+########
+########
+# benchmarking start: 2011-07-04 05:36:09 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:36:09 up 22 days, 16:11, 14 users,  load average: 0.31, 0.51, 0.52
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.882e-02	74225.86	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99975.95	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93502.24	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.944e-02	47468.23	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.279e-01	136203.86	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.812e+00	145679.73	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.201e-02	63475.71	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.529e-01	176609.42	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.710e+00	164122.98	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.072e-02	67446.78	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.458e-01	81824.74	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.798e+01	79496.26	1.1313e-05
+# benchmarking finished: 2011-07-04 05:37:21 +0900, elapsed = 72.215041
+########
+########
+# benchmarking start: 2011-07-04 05:38:21 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:38:22 up 22 days, 16:13, 14 users,  load average: 0.27, 0.48, 0.51
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.864e-02	74974.64	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99968.33	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.525e+01	93726.12	1.7954e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.198e-02	63573.91	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.528e-01	176627.58	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.654e+00	165171.06	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.071e-02	67453.29	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.257e-01	84949.16	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.790e+01	79853.26	1.1313e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.939e-02	47544.15	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.280e-01	136146.56	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.774e+00	146246.45	1.1313e-05
+# benchmarking finished: 2011-07-04 05:39:33 +0900, elapsed = 71.642615
+########
+########
+# benchmarking start: 2011-07-04 05:40:33 +0900
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:40:33 up 22 days, 16:16, 14 users,  load average: 0.29, 0.48, 0.51
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.946e-02	47436.00	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.279e-01	136193.91	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.749e+00	146632.98	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.067e-02	67609.96	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.457e-01	81837.04	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.795e+01	79647.97	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.197e-02	63594.16	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.506e-01	178184.39	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.654e+00	165183.20	1.9806e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.861e-02	75095.53	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.468e-01	99937.67	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93508.80	1.7954e-05
+# benchmarking finished: 2011-07-04 05:41:45 +0900, elapsed = 72.075385
+########
+########
+# benchmarking start: 2011-07-04 05:42:45 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:42:45 up 22 days, 16:18, 14 users,  load average: 0.28, 0.48, 0.51
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.872e-02	74622.27	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.468e-01	99958.26	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93500.05	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.938e-02	47557.09	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.276e-01	136296.56	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.768e+00	146338.42	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.062e-02	67764.07	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.459e-01	81797.91	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.795e+01	79619.98	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.126e-02	65717.86	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.526e-01	176819.91	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.710e+00	164117.27	1.9806e-05
+# benchmarking finished: 2011-07-04 05:43:57 +0900, elapsed = 72.04065
+########
+########
+# benchmarking start: 2011-07-04 05:44:57 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:44:57 up 22 days, 16:20, 14 users,  load average: 0.29, 0.48, 0.51
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.132e-02	65539.07	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.530e-01	176522.17	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.715e+00	164028.02	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.076e-02	67290.86	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.460e-01	81793.12	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.794e+01	79667.20	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.859e-02	75180.38	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.446e-01	100442.54	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.525e+01	93734.42	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.938e-02	47555.48	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.278e-01	136213.84	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.809e+00	145724.70	1.1313e-05
+# benchmarking finished: 2011-07-04 05:46:09 +0900, elapsed = 72.055118
+########
+########
+# benchmarking start: 2011-07-04 05:47:09 +0900
+# bin_files = ["bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:47:09 up 22 days, 16:22, 14 users,  load average: 0.27, 0.47, 0.51
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.071e-02	67463.06	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.214e-01	85654.03	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.792e+01	79767.70	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.879e-02	74348.30	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99973.25	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93772.76	1.7954e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.135e-02	65450.04	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.527e-01	176708.67	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.655e+00	165150.16	1.9806e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.943e-02	47469.85	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.312e-01	134824.64	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.801e+00	145841.38	1.1313e-05
+# benchmarking finished: 2011-07-04 05:48:21 +0900, elapsed = 71.743318
+########
+########
+# benchmarking start: 2011-07-04 05:49:21 +0900
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:49:21 up 22 days, 16:24, 14 users,  load average: 0.27, 0.46, 0.50
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.940e-02	47532.83	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.282e-01	136062.34	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.794e+00	145951.72	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.874e-02	74550.61	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99961.16	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93494.57	1.7954e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.080e-02	67167.94	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.460e-01	81792.38	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.808e+01	79060.31	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.195e-02	63655.01	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.519e-01	177262.08	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.658e+00	165107.09	1.9806e-05
+# benchmarking finished: 2011-07-04 05:50:33 +0900, elapsed = 72.209172
+########
+########
+# benchmarking start: 2011-07-04 05:51:33 +0900
+# bin_files = ["bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:51:33 up 22 days, 16:27, 14 users,  load average: 0.37, 0.53, 0.52
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.082e-02	67113.09	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.460e-01	81785.48	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.806e+01	79153.07	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.133e-02	65520.63	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.529e-01	176557.06	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.720e+00	163930.39	1.9806e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.872e-02	74630.24	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99974.37	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93490.15	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.939e-02	47544.15	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.280e-01	136146.98	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.766e+00	146372.27	1.1313e-05
+# benchmarking finished: 2011-07-04 05:52:46 +0900, elapsed = 72.209943
+########
+########
+# benchmarking start: 2011-07-04 05:53:46 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:53:46 up 22 days, 16:29, 14 users,  load average: 0.29, 0.51, 0.52
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.770e-02	78952.78	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.409e-01	101277.41	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93779.01	1.7954e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.996e-02	70018.91	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.221e-01	85539.83	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.791e+01	79830.72	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.135e-02	65456.17	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.507e-01	178104.11	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.655e+00	165154.52	1.9806e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.804e-02	49828.02	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.280e-01	136169.39	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.748e+00	146646.83	1.1313e-05
+# benchmarking finished: 2011-07-04 05:54:57 +0900, elapsed = 71.30942
+########
+########
+# benchmarking start: 2011-07-04 05:55:57 +0900
+# bin_files = ["bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:55:57 up 22 days, 16:31, 14 users,  load average: 0.28, 0.49, 0.52
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.799e-02	49924.16	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.289e-01	135774.02	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.751e+00	146597.09	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.979e-02	70613.40	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.252e-01	85033.76	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.791e+01	79822.47	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.136e-02	65407.14	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.507e-01	178163.78	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.654e+00	165172.36	1.9806e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.780e-02	78509.15	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.413e-01	101194.78	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93782.61	1.7954e-05
+# benchmarking finished: 2011-07-04 05:57:08 +0900, elapsed = 71.32438
+########
+########
+# benchmarking start: 2011-07-04 05:58:08 +0900
+# bin_files = ["bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 05:58:08 up 22 days, 16:33, 14 users,  load average: 0.30, 0.50, 0.52
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.778e-02	78588.64	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.412e-01	101211.30	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93791.79	1.7954e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	2.003e-02	69763.70	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.222e-01	85510.84	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.798e+01	79484.88	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.131e-02	65582.14	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.507e-01	178097.00	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.654e+00	165168.81	1.9806e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.799e-02	49920.59	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.278e-01	136249.16	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.755e+00	146528.05	1.1313e-05
+# benchmarking finished: 2011-07-04 05:59:20 +0900, elapsed = 71.354012
+########
+########
+# benchmarking start: 2011-07-04 06:00:20 +0900
+# bin_files = ["bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 06:00:20 up 22 days, 16:35, 14 users,  load average: 0.28, 0.49, 0.52
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.996e-02	69994.36	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.217e-01	85603.95	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.788e+01	79932.41	1.1313e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.807e-02	49774.77	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.280e-01	136152.38	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.751e+00	146591.06	1.1313e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.116e-02	66031.54	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.502e-01	178496.34	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.652e+00	165215.27	1.9806e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.778e-02	78570.96	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.407e-01	101336.47	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93796.03	1.7954e-05
+# benchmarking finished: 2011-07-04 06:01:31 +0900, elapsed = 71.245153
+########
+########
+# benchmarking start: 2011-07-04 06:02:31 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 06:02:31 up 22 days, 16:38, 14 users,  load average: 0.28, 0.48, 0.51
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.131e-02	65557.52	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.504e-01	178341.67	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.652e+00	165215.03	1.9806e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.816e-02	49613.93	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.241e-01	137798.86	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.746e+00	146670.86	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.994e-02	70089.16	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.228e-01	85413.03	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.800e+01	79396.29	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.849e-02	75550.31	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.467e-01	99972.80	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.529e+01	93506.45	1.7954e-05
+# benchmarking finished: 2011-07-04 06:03:43 +0900, elapsed = 71.545574
+########
+########
+# benchmarking start: 2011-07-04 06:04:43 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 06:04:43 up 22 days, 16:40, 14 users,  load average: 0.31, 0.50, 0.52
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.121e-02	65866.57	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.505e-01	178258.38	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.652e+00	165212.41	1.9806e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.812e-02	49689.80	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.306e-01	135090.16	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.741e+00	146738.55	1.1313e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.989e-02	70233.61	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.211e-01	85696.43	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.802e+01	79338.90	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.793e-02	77939.84	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.412e-01	101225.07	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93797.77	1.7954e-05
+# benchmarking finished: 2011-07-04 06:05:54 +0900, elapsed = 71.47627
+########
+########
+# benchmarking start: 2011-07-04 06:06:54 +0900
+# bin_files = ["bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe", "bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe"]
+# uptime = 06:06:54 up 22 days, 16:42, 14 users,  load average: 0.29, 0.49, 0.52
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	64	2.121e-02	65875.88	1.7445e-05
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	128	2.506e-01	178195.08	5.7573e-06
+bin/float@gpu@hayasaka@pfsl.mech.tohoku.ac.jp.exe	256	8.656e+00	165143.16	1.9806e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	64	1.990e-02	70226.55	1.7586e-05
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	128	5.218e-01	85589.34	4.5531e-06
+bin/float@gpu@kyoya@pfsl.mech.tohoku.ac.jp.exe	256	1.799e+01	79479.78	1.1313e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	64	1.797e-02	77736.02	1.7466e-05
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	128	4.423e-01	100966.68	5.5031e-06
+bin/float@gpu@miyagawa@pfsl.mech.tohoku.ac.jp.exe	256	1.524e+01	93800.39	1.7954e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	64	2.805e-02	49810.25	1.7586e-05
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	128	3.278e-01	136239.59	4.5531e-06
+bin/float@gpu@nakaaki@pfsl.mech.tohoku.ac.jp.exe	256	9.747e+00	146653.48	1.1313e-05
+# benchmarking finished: 2011-07-04 06:08:06 +0900, elapsed = 71.400272
+########

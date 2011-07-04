@@ -30,8 +30,8 @@ GTX580 のキャッシュの効果が良くわかる結果となりました。
 
   - MySolver 以外のコードをいじった人はいなかった。
 
-各実装は master branch にマージ済みです。
-github (https://github.com/tjhayasaka/pfsl-gpu-exercise) にて公開しています。
+各実装および結果の詳細を master branch にマージ済みです。
+github (https://github.com/tjhayasaka/pfsl-gpu-exercise/commits/) にて公開しています。
 
 2011 コンペ 
 ===========
